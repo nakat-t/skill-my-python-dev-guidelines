@@ -2,6 +2,16 @@
 
 An [Agent Skill](https://www.anthropic.com/news/skills) that teaches an AI coding agent to follow my personal Python standards — design, package structure, dependency management, and quality gates.
 
+## Install
+
+```sh
+gh skill install nakat-t/skill-my-python-dev-guidelines
+```
+
+## How to use
+
+It loads automatically when you perform Python-related tasks such as writing, designing, refactoring, reviewing Python code, determining package structure, and adding dependencies.
+
 ## What's inside
 
 ### Design principles
