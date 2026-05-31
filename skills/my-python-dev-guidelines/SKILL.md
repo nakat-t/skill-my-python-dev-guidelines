@@ -1,6 +1,7 @@
 ---
 name: my-python-dev-guidelines
 description: "My Python development standards. Always consult this skill for any work that involves writing, designing, refactoring, or reviewing Python code, deciding package structure, or adding dependencies. Specifically: creating or editing Python files / packages / modules, designing classes or public APIs, managing workspaces / packages / dependencies with uv, editing pyproject.toml, running ruff / ty / pytest, and any design decision involving Rich Domain Models or public boundaries (public symbols). Consult this skill for any Python implementation or design task, even when the user does not explicitly say 'guidelines'."
+license: MIT
 ---
 
 # Python Development Guidelines
